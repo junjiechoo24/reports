@@ -1,4 +1,4 @@
-This is the repository for my personal projects.
+This is the repository for the data analysis reports I have done.
 
 Report 1: Titansoft Technical Interview Questions and Answers
 
